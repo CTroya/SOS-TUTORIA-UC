@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75771796469",
+    "project_id": "uc-tutoria-troya-g8gbiu",
+    "storage_bucket": "uc-tutoria-troya-g8gbiu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75771796469:android:5aa53dc7cb91868da65ebc",
+        "android_client_info": {
+          "package_name": "com.flutterflow.cinnia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj6zT7_UZRYWQNCCy3yUHpuzfaBoK5Oho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
